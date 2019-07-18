@@ -52,7 +52,6 @@ public class SockMerchant {
 //            }
 //        }
 //        return numOfPairs;
-    	
     	        int numOfPairs = 0;
     	        int count = 1;
     	        Arrays.sort(ar);
